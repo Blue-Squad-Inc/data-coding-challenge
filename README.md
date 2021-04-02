@@ -30,7 +30,7 @@
 
 ## Requirements
 - Your code must be written in Python 3 (3.7 or higher).
-- Feel free to use common open-source libraries, as long as they are not specific to the Google Civic API.
+- Feel free to use common open-source libraries, as long as they are not specific to the Google Civic API. Please use a requirements.txt file for all dependencies.
 - You are welcome to split your code into as many modules and files as you would like, but ultimately the entire process should be able to be run with one single command.
 - Do NOT include your API key or any of the Mongo connection data (hostname, database name, username, and password) in your code. These should be provided as arguments to the command.
 - We will be evaluating your code (including running it several times), as well as the data found in the `representatives` collection in Mongo. It does not matter whether there is data in that collection upon submission or not, but any data in it should be a reflection of your desired result.
