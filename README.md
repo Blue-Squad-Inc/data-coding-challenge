@@ -2,7 +2,7 @@
 
 ## Objective
 - Start by a taking a look at the image provided in the `mockups` directory of this repository. This is a mockup of a type of screen in our mobile app, showing details about an elected official (aka "representative"). Once you have reviewed this image, come back to read the rest of this README.
-- Your objective is to implement a Python process that will fetch data from the Google Civic API, clean it and restructure it, and load it to a remote Mongo database. In a real-world scenario, this data would then be accessed by our internal API to serve data to our mobile app. More details about each component of this objective are below.
+- Your objective is to implement a Python process that will fetch data from the Google Civic API, clean it and restructure it, and load it to a remote Mongo database. In a real-world scenario, this data would then be accessed by our internal API to serve data to our mobile app to populate this type of screen. More details about each component of this objective are below.
 
 ## Google Civic API
 - You will need a Google API key in order to access the Google Civic API. Note that calls to the Google Civic API incur no cost. Instructions are found [here](https://support.google.com/googleapi/answer/6158862?hl=en) for creating a Google API key.
