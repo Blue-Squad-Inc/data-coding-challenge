@@ -40,7 +40,7 @@
 - Create a *private* Github repo. Feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to execute your code.
 - When you're ready for us to take a look:
-  - Share the repo with Kate, Shion, and Moe - our github accounts are under `<firstname>@bluesquad.co`
+  - Share the repo via Github with Kate, Shion, and Moe - our Github accounts are under `<firstname>@bluesquad.co`
   - Email Kate to let us know the repo name and your Github username
 
 ## Additional Thoughts
