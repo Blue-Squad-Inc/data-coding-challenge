@@ -35,12 +35,13 @@
 - You are welcome to split your code into as many modules and files as you would like, but ultimately the entire process should be able to be run with one single command.
 - Do NOT include your API key or any of the Mongo connection data (hostname, database name, username, and password) in your code. These should be provided as arguments to the command.
 - We will be evaluating your code (including running it several times), as well as the data found in the `representatives` collection in Mongo. It does not matter whether there is data in that collection upon submission or not, but any data in it should be a reflection of your desired result.
-- You should also spend some time reviewing the resulting data, particularly the office names that Google Civic uses. We don't want you to memorize them, but you should have a general feel for their features. We'll be asking some follow-up questions during the next interview.
 
 ## Submission Instructions
 - Create a *private* Github repo. Feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to execute your code.
-- Share the repo with product@bluesquad.co when you're ready for us to take a look, and email Kate to let us know the repo name and your Github username.
+- When you're ready for us to take a look:
+  - Share the repo with Kate, Shion, and Moe - our github accounts are under `<firstname>@bluesquad.co`
+  - Email Kate to let us know the repo name and your Github username
 
 ## Additional Thoughts
 - We recommend spending no more than a day working on your submission. If you find that the work is taking longer than this, it's possible that this role may not be the best fit for you.
