@@ -22,6 +22,7 @@
 
 ## MongoDB
 - In the email we sent that had the link to this repo, we also provided you with the hostname of a cloud machine running Mongo, the port that Mongo is listening for connections on, a database name, and a username and password that grants you access to this database.
+  - In the `src` directory of this repo, we provide a sample Mongo client that you are welcome to use. It is a very basic wrapper of the `pymongo` Python library (which you will need to install in order to use this wrapper) to simplify connecting to our database.
   - If you have any problems connecting to Mongo, please let us know.
 - Only you and our team have access to this database, so feel free to use it to test out your code while you are developing. However, using this database for purposes other than this coding challenge and/or storing large quantities of data (i.e. magnitudes more than what is expected for this challenge) is not permitted.
 - Store your cleaned data in a collection called `representatives`.
